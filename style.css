@@ -1,0 +1,19 @@
+.opacity {
+  background-image: url();
+}
+
+a.btn-primary {
+  background: #4356ff;
+}
+
+/* a.btn-primary:hover {
+  background: #4356ff;
+} */
+
+.active {
+  color: #007bff !important;
+}
+
+li > a:not(.active):hover {
+  color: #ff5733 !important;
+}
